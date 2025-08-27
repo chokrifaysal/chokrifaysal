@@ -1,6 +1,6 @@
 <div align="center">
 
-![MWA](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTN5ajYwZ2Ftd2FjYzBqbm85ZDAxdWwwM21nem1sYWM4YTN4cDE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRzQnWzbn4WIxd3ZYx/giphy.gif)
+![MWA](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVnZTJoOGFldDdlcDMwMHV4dDBhZHR0MTB1Y2cxY2p3NmswMGhqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1Y0gNNmJBPw7sOVft/giphy.gif)
 
 </div>
 
